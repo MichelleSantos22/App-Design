@@ -1,2 +1,3 @@
-A description of the app.
-A link to the Trello baord.
+A description of the app: One popular five-weapon expansion to the classic game is "rock-paper-scissors-Spock-lizard", invented by Sam Kass and Karen Bryla, which adds "Spock" and "lizard" to the standard three choices. "Spock" is signified with the Star Trek Vulcan salute, while "lizard" is shown by forming the hand into a sock-puppet-like mouth. Spock smashes scissors and vaporizes rock; he is poisoned by lizard and disproven by paper. Lizard poisons Spock and eats paper; it is crushed by rock and decapitated by scissors.
+
+A link to the Trello baord: https://trello.com/b/ndOXMbOc/rochambeau-2
